@@ -1,0 +1,1 @@
+# mongard_django_blog
